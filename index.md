@@ -1,6 +1,6 @@
 ---
 
-### Hi! I am Mariann.
+### Hi! I am Mariann P.
 
 I am a junior research fellow at the University of Tartu Institute of Estonian and General Linguistics. I do such and such things.
 
