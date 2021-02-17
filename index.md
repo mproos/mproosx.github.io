@@ -2,6 +2,8 @@
 
 ### Hi! I am Mariann.
 
+I am a junior research fellow at the University of Tartu Institute of Estonian and General Linguistics. I do such and such things.
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
