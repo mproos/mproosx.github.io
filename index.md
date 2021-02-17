@@ -5,7 +5,6 @@
 I am a junior research fellow at the University of Tartu Institute of Estonian and General Linguistics. I do such and such things.
 
 As my recent project, my colleague Mari Aigro and I are collecting abstractness-concreteness ratings for 40 000 Estonian words.
-[Eestikeelsete sõnade abstraktsus ja konkreetsus](/sample_page)
 <img src="images/brain-5605289_1280.png?raw=true"/>
 
 ---
